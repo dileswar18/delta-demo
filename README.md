@@ -6,6 +6,6 @@ Shradha Khapra
 
 # student 
 
-Delta student of delta 3.0 name Dileswar Nayak.
+Delta student of delta 3.0 
 
 
